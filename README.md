@@ -8,3 +8,5 @@ index.html toegevoegd
 yaai
 
 yo
+
+klaar

@@ -2,3 +2,8 @@
 Dit is een opdracht bij les 3 van van software development versioncontrol
 
 ## toegevoegd in les
+
+index.html toegevoegd  
+
+yaai
+
